@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestDTM", "TestDTM\TestDTM.vcxproj", "{ED55F631-CC91-4943-B544-76C463C7EB5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED55F631-CC91-4943-B544-76C463C7EB5B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED55F631-CC91-4943-B544-76C463C7EB5B}.Debug|Win32.Build.0 = Debug|Win32
+		{ED55F631-CC91-4943-B544-76C463C7EB5B}.Release|Win32.ActiveCfg = Release|Win32
+		{ED55F631-CC91-4943-B544-76C463C7EB5B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
